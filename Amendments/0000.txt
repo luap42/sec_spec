@@ -1,0 +1,63 @@
++-----------------------------------------------------------------------+
+|                                                                       |
+|                   #####  #####  #####  #####  #####                   |
+|                   #      #      #        #    #   #                   |
+|                   #####  #####  #        #    ####                    |
+|                       #  #      #        #    #                       |
+|                   #####  #####  #####    #    #                       |
+|                                                                       |
+|                    Secure Electronic Communication                    |
+|                        Transfer Protocol, v. 1                        |
+|                                                                       |
++-----------------------------------------------------------------------+
+|                                                                       |
+|                                            Author: luap42             |
+|                                            Status: informational      |
+|                                                                       |
+|                                                                       |
+|   AMENDMEND NO. 0000                                                  |
+|   DISCUSSION ON HOW FUTURE CHANGES SHOULD BE PROPOSED AND FORMALIZED  |
+|                                                                       |
++-----------------------------------------------------------------------+
+
+
+# Abstract
+
+This amendment to the specification discusses, how future changes should be proposed and formalized;
+the suggestion is to collect a list of "amendments" -- such as this one -- containing adopted,
+or considered proposals.
+
+# Amendments
+
+The Specification can be altered by so-called amendments, which are text documents published according
+to this one -- possibly containing further specification, rescindals and discussions.
+
+All Amendments are enumerated with a four-digits number. The number SHOULD be indicative for the point
+in time, at which the amendment is suggested (relative order), but this is not obligatory and exceptions
+may be made.
+
+A full list of all amendments can be found on GitHub: https://github.com/luap42/sec_spec.
+
+Keywords, that are not specifically defined in an amendment, SHALL be interpreted according to the original
+Specification and the definitions therein.
+
+# Process
+
+An amendment can have any of the following status:
+
+    "informational" if it is non-binding with regards to the specification, mostly containing
+        articles of discussion;
+
+    "proposed" if a new feature or any other change to the Specification is proposed for the
+        first time;
+
+    "under consideration" if the proposal is under serious consideration and has a reasonable
+        chance to advance to the next state pending resolution of possible issues;
+
+    "living standard" if the amendment is considered formal policy, equal to the Specification;
+
+    "deprecated" if the amendment is no longer considered good-practice or has been substituted
+        by a more recent amendment or a new version of the specification;
+
+    "unsafe!" if the amendment has been deprecated or rescinded on the basis of adverse security
+        flaws or other issues of similar gravity.
